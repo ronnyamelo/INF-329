@@ -1,0 +1,29 @@
+
+
+Eventos (Posibles casos de uso)
+
+Autenticar los usuarios del sistema
+Registrar ingreso de artículo empeñado
+	registrar, buscar cliente
+Registrar pago de artículo empeñado
+	Calcular monto a pagar por el cliente
+Ver los artículos registrados
+Ver Detalles de artículo
+Generar reporte
+	- Cuentas por cobrar
+	- Ingresos en lo que va del mes
+	- Articulos empenados
+Registrar Venta de artículo
+
+
+
+
+
+Posibles futuros casos de uso
+
+
+Registrar venta de artículo
+Modificar Informacion de cliente
+Modificar informacion de articulo
+Administrar usuarios
+Imprimir recibo

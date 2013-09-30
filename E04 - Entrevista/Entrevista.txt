@@ -1,0 +1,2 @@
+Las entrevistas realizadas a continuación forman parte de la elicitación del proyecto de software y la mismas sirven para conocer en detalle como se espera que funcione el sistema en cada funcionalidad básica del mismo.
+

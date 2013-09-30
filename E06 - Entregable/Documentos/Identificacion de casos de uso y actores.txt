@@ -1,0 +1,18 @@
+Casos de Uso
+
+- Iniciar Sesion
+- Solicitar prueba (Usuario)
+- Pedir sugerencia (Usuario)
+- Calificar respuestas (Sistema)
+- Agregar Pregunta(Tutor)
+- Evaluar preguntas (Examinador)
+- Ver Resultados prueba (Todos)
+- Registrar Usuario ()
+
+
+
+Actores
+
+Usuario
+Tutor
+Examinador
